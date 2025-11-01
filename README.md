@@ -94,8 +94,10 @@ meter fiber into the cap. Now tighten the cap by screwing it back.
 ▪ Observe the detected signal at post ANALOG OUT on oscilloscope.
 # TABULATION:
 <img width="1600" height="1426" alt="image" src="https://github.com/user-attachments/assets/1cf4a9fc-748b-4044-a7f7-4daba231e471" />
+
 # GRAPH:
 <img width="1166" height="1600" alt="image" src="https://github.com/user-attachments/assets/cb7d0eb8-0702-4b79-929a-a307a0c4e9ad" />
+
 # RESULT:
 The frequency of response of phototramsmitor detector in 660nm and 950nm fiber analog link was studied and relation between input and receiver signal was verified.
 
